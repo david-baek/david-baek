@@ -18,7 +18,7 @@ We investigate how model distillation impacts the development of reasoning featu
 
 We introduce harmonic loss as alternative to the standard CE loss for training neural networks and LLMs. Harmonic loss achieves 🛠️significantly better interpretability, ⚡faster convergence, and ⏳less grokking!
 
-### [Hints of Universality in LLM Knowledge Graph Learning](https://arxiv.org/pdf/2410.08255)
+### [Hints of Universality in LLM Knowledge Graph Learning](https://arxiv.org/abs/2410.08255)
 
 We study hints of representation universality across different LLMs via model stitching!
 
