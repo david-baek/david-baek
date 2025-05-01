@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm David, second-year PhD student at MIT EECS doing research on Mechanistic Interpretability and Machine Learning!
+I'm David, graduate student at MIT EECS doing research on Mechanistic Interpretability and Machine Learning!
 
 I'm always happy to chat about any AI/ML-related projects, please feel free to reach out at dbaek@mit.edu :)
 
